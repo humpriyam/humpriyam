@@ -1,9 +1,7 @@
-<h1 align="center">Hi there, I'm Priyam! 👋</h1>
-
-<h3 align="center"><em>"Hey There! I am using Swiggy.."</em> 🍔</h3>
+<h1 align="center">Hi there, I'm usiing Swiggy! 👋</h1>
 
 <p align="center">
-  I am an <strong>Electrical and Electronics Engineering</strong> graduate from the <strong>National Institute of Technology (VNIT) Nagpur</strong>. I bridge the gap between hardware and software, bringing complex electrical systems to life through code and circuitry.
+  I hold a Bachelors Degree in <strong>Electrical and Electronics Engineering</strong> from the <strong>National Institute of Technology (VNIT) Nagpur</strong>.
 </p>
 
 ---
@@ -12,7 +10,7 @@
 
 - 🔭 **What I build:**
   - Electrical-based simulations and web platforms like **Smart EV Charging Stations** (PV-assisted), **Automatic Braking/Parking Assistant Systems**, and real-time **Energy Trading Engines**.
-  - IoT-based hardware projects like a **Gesture-Controlled 4-Wheeled Robot** (using ESP32).
+  - IoT-based hardware projects like a **Gesture-Controlled 4-Wheeled Robot** (using ESP32), **Biometric Attendance System**.
 - 🌱 **Currently learning:** Extended Kalman Filters (EKF) and other advanced control strategies for my drone-based project. 🛸
 
 🌐 Socials:

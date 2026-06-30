@@ -15,42 +15,6 @@
   - IoT-based hardware projects like a **Gesture-Controlled 4-Wheeled Robot** (using ESP32).
 - 🌱 **Currently learning:** Extended Kalman Filters (EKF) and other advanced control strategies for my drone-based project. 🛸
 
----
-
-### 💻 Technical Toolkit
-
-**Languages**<br>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools & Hardware**<br>
-![MATLAB & Simulink](https://img.shields.io/badge/MATLAB_&_Simulink-e25f16?style=for-the-badge&logo=mathworks&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tinkercad](https://img.shields.io/badge/Tinkercad-ED8B00?style=for-the-badge&logo=autodesk&logoColor=white)
-*(Plus PSIM and LTSPICE)*
-
----
-
-### 📫 Let's Connect!
-
-I'm always open to collaborating on fun projects, hardware-software integrations, or discussing new tech. Reach out to me here:
-
-<p align="left">
-  <a href="mailto:[Your Email Address]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="[Your LinkedIn URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="[@YourHandle]">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/humpriyam) 
 

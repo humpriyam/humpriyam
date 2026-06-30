@@ -1,6 +1,57 @@
-I hold a Bachelor's degree in Electrical and Electronics Engineering from the National Institute of Technology (VNIT) Nagpur.<br><br>### 🛠 What I Do<br>- 🔭 **What I build:** Electrical-based simulations and web platforms (like Smart EV charging station simulations ,Parking Assistant and Automatic Breaking System Simulation, real-time energy trading engines), as well as IoT-based hardware projects (like gesture-controlled 4 wheeled robot).<br>- 💻 **Tech I use:** **Languages:** Python, Java, C++, HTML, SQL. **Tools & Hardware:** MATLAB, Simulink, Arduino IDE, ESP32, Linux, Tinkercad, PSIM, and LTSPICE.<br>- 🌱 **Currently learning:** Extended Kalman Filters (EKF) and other advanced control strategies for my drone-based project.<br><br>###
+<h1 align="center">Hi there, I'm Priyam! 👋</h1>
 
-## 🌐 Socials:
+<h3 align="center"><em>"Hey There! I am using Swiggy.."</em> 🍔</h3>
+
+<p align="center">
+  I am an <strong>Electrical and Electronics Engineering</strong> graduate from the <strong>National Institute of Technology (VNIT) Nagpur</strong>. I bridge the gap between hardware and software, bringing complex electrical systems to life through code and circuitry.
+</p>
+
+---
+
+### 🚀 What I Do
+
+- 🔭 **What I build:**
+  - Electrical-based simulations and web platforms like **Smart EV Charging Stations** (PV-assisted), **Automatic Braking/Parking Assistant Systems**, and real-time **Energy Trading Engines**.
+  - IoT-based hardware projects like a **Gesture-Controlled 4-Wheeled Robot** (using ESP32).
+- 🌱 **Currently learning:** Extended Kalman Filters (EKF) and other advanced control strategies for my drone-based project. 🛸
+
+---
+
+### 💻 Technical Toolkit
+
+**Languages**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & Hardware**<br>
+![MATLAB & Simulink](https://img.shields.io/badge/MATLAB_&_Simulink-e25f16?style=for-the-badge&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-ED8B00?style=for-the-badge&logo=autodesk&logoColor=white)
+*(Plus PSIM and LTSPICE)*
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to collaborating on fun projects, hardware-software integrations, or discussing new tech. Reach out to me here:
+
+<p align="left">
+  <a href="mailto:[Your Email Address]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="[Your LinkedIn URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="[@YourHandle]">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/humpriyam) 
 
 # 💻 Tech Stack:
